@@ -1,4 +1,4 @@
-# Funding Tracker — Backend v1.1
+# Funding Tracker — MVP V.1
 
 A zero-cost Python pipeline that pulls startup funding news from 8 RSS sources,
 extracts structured data (company, amount, round, industry, country, investors,
